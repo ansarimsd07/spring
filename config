@@ -1,0 +1,15 @@
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/ansarimsd07/spring.git
+[remote "remote"]
+	url = https://github.com/ansarimsd07/spring.git
+[remote "com"]
+	url = https://github.com/ansarimsd07/mycode.git
+[remote "www"]
+	url = file:///C:\\Users\\acer\\git
+[remote "ww"]
+	url = https://github.com/ansarimsd07/mycodee.git
